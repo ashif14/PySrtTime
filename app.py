@@ -1,5 +1,3 @@
-import app
-
 import re
 
 def getSequenceTime(sequence):
